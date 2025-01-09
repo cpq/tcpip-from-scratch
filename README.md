@@ -26,4 +26,4 @@ This is the drawing of the physical setup and TCP/IP stack structure:
 
 ## Contact me
 
-sergey.lyubka at cesanta dot com
+https://cpq.github.io/
